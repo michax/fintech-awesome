@@ -1,6 +1,3 @@
-# fintech-awesome
-Fintech Awesome List
-
 # Statistical Models
 
 ## Bayes, Markov Chain Monte Carlo
